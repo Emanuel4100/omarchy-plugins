@@ -1,0 +1,18 @@
+[submodule "gnomarchy"]
+	path = gnomarchy
+	url = https://github.com/Emanuel4100/gnomarchy.git
+[submodule "omarchy-boot-into"]
+	path = omarchy-boot-into
+	url = https://github.com/Emanuel4100/omarchy-boot-into.git
+[submodule "omarchy-dotstate-widget"]
+	path = omarchy-dotstate-widget
+	url = https://github.com/Emanuel4100/omarchy-dotstate-widget.git
+[submodule "omarchy-hide-top-bar"]
+	path = omarchy-hide-top-bar
+	url = https://github.com/Emanuel4100/omarchy-hide-top-bar.git
+[submodule "omarchy-hyperx-battery"]
+	path = omarchy-hyperx-battery
+	url = https://github.com/Emanuel4100/omarchy-hyperx-battery.git
+[submodule "omarchy-power-mode"]
+	path = omarchy-power-mode
+	url = https://github.com/Emanuel4100/omarchy-power-mode.git
