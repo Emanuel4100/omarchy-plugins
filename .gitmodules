@@ -7,12 +7,18 @@
 [submodule "omarchy-dotstate-widget"]
 	path = omarchy-dotstate-widget
 	url = https://github.com/Emanuel4100/omarchy-dotstate-widget.git
+[submodule "omarchy-google-tasks"]
+	path = omarchy-google-tasks
+	url = https://github.com/Emanuel4100/omarchy-google-tasks.git
 [submodule "omarchy-hide-top-bar"]
 	path = omarchy-hide-top-bar
 	url = https://github.com/Emanuel4100/omarchy-hide-top-bar.git
 [submodule "omarchy-hyperx-battery"]
 	path = omarchy-hyperx-battery
 	url = https://github.com/Emanuel4100/omarchy-hyperx-battery.git
+[submodule "omarchy-plugin-updates"]
+	path = omarchy-plugin-updates
+	url = https://github.com/Emanuel4100/omarchy-plugin-updates.git
 [submodule "omarchy-power-mode"]
 	path = omarchy-power-mode
 	url = https://github.com/Emanuel4100/omarchy-power-mode.git
