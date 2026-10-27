@@ -22,3 +22,6 @@
 [submodule "omarchy-power-mode"]
 	path = omarchy-power-mode
 	url = https://github.com/Emanuel4100/omarchy-power-mode.git
+[submodule "omarchy-quickshare"]
+	path = omarchy-quickshare
+	url = https://github.com/Emanuel4100/omarchy-quickshare.git
